@@ -1,0 +1,1 @@
+instace_type = "t3.nano"
